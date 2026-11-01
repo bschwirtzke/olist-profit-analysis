@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-src/olist_profit/__init__.py
-src/olist_profit/config.py
-src/olist_profit/data.py
-src/olist_profit.egg-info/PKG-INFO
-src/olist_profit.egg-info/SOURCES.txt
-src/olist_profit.egg-info/dependency_links.txt
-src/olist_profit.egg-info/top_level.txt
